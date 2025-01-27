@@ -7,7 +7,7 @@ I'm a Computer Engineering graduate pursuing a Master’s in Data Science at Ind
 
 ---
 
-- 🌱 **Currently Learning:** Advanced Data Analytics, Machine Learning, and Deep Learning  
+- 🌱 **Currently Learning:** Advanced Data Analytics, Machine Learning, Deep Learning, and PowerBI. 
 - 📫 **How to reach me:** ytakte@gmail.com  
 - 🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yash-takte-27b939229)
 
