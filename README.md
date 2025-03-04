@@ -13,7 +13,7 @@ I'm a Computer Engineering graduate pursuing a Master’s in Data Science at Ind
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Technical Skills:</h3>
 <p align="left">
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
