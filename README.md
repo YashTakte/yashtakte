@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Aspiring Data Scientist | MS in Data Science Student</h3>
+<h3 align="center">Aspiring Data Scientist | Data Science Graduate Student</h3>
 
 <p align="center">
 I’m a Computer Engineering graduate and current Master’s in Data Science student at Indiana University Bloomington. I’m passionate about solving real-world problems using data, whether it’s analyzing trends, building predictive models, or creating insightful visualizations. With hands-on experience in Python, SQL, ML, NLP, and tools like Power BI, I enjoy transforming complex datasets into clear, actionable stories. I'm always eager to learn, collaborate, and contribute to projects that make a meaningful impact.
