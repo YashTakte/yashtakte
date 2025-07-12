@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | MS in Data Science Student</h3>
 
 <p align="center">
-I’m a Computer Engineering graduate currently pursuing a Master’s in Data Science at Indiana University Bloomington. I’m passionate about using data to solve real-world problems and have hands-on experience with data analysis, machine learning, deep learning, and tools like Power BI. I enjoy working in collaborative environments, constantly learning, and contributing to projects that create meaningful impact.
+I’m a Computer Engineering graduate and current Master’s in Data Science student at Indiana University Bloomington. I’m passionate about solving real-world problems using data, whether it’s analyzing trends, building predictive models, or creating insightful visualizations. With hands-on experience in Python, SQL, ML, NLP, and tools like Power BI, I enjoy transforming complex datasets into clear, actionable stories. I'm always eager to learn, collaborate, and contribute to projects that make a meaningful impact.
 </p>
 
 ---
