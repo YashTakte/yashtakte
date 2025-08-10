@@ -12,7 +12,7 @@ I’m a Computer Engineering graduate and current Master’s in Data Science stu
 
 ---
 
-<h3 align="left">**Technical Skills:**</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
