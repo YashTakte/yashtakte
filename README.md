@@ -11,7 +11,7 @@ With hands-on experience in Python, SQL, ML, NLP, cloud technologies (AWS, GCP),
 ## Connect With Me
 
 - **Email:** ytakte@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yash-takte-27b939229](https://linkedin.com/in/yash-takte-27b939229)
+- **LinkedIn:** [linkedin.com/in/yashtakte](https://www.linkedin.com/in/yashtakte)
 
 ---
 
