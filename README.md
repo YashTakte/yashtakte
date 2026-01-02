@@ -2,16 +2,16 @@
 
 **Data Scientist @ Project 990 | MSDS @ IUB | Python, SQL, ML, AWS**
 
-I'm a Computer Engineering graduate and current Master's in Data Science student at Indiana University Bloomington. Passionate about solving real-world problems through data, I work on projects ranging from building cloud pipelines and analyzing large-scale datasets to developing predictive models and creating interactive dashboards. 
+I'm a Computer Engineering graduate and current Master's in Data Science student at Indiana University Bloomington. Passionate about solving real-world problems through data, I specialize in building end-to-end data solutions from scalable ETL pipelines and cloud infrastructure to production ML systems and interactive dashboards.
 
-With hands-on experience in Python, SQL, ML, NLP, cloud technologies (AWS, GCP), and visualization tools (Power BI, Tableau), I enjoy turning complex datasets into clear, actionable insights and contributing to projects that create meaningful impact.
+With hands-on experience in Python, SQL, ML/NLP, cloud technologies (AWS, GCP), orchestration tools (Airflow, Docker), and CI/CD workflows (GitHub Actions), I enjoy transforming complex datasets into actionable insights and deploying data-driven solutions that create meaningful impact.
 
 ---
 
 ## Connect With Me
 
 - **Email:** ytakte@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yashtakte](https://www.linkedin.com/in/yashtakte)
+- **LinkedIn:** [linkedin.com/in/yashtakte](https://linkedin.com/in/yashtakte)
 
 ---
 
@@ -71,6 +71,9 @@ With hands-on experience in Python, SQL, ML, NLP, cloud technologies (AWS, GCP),
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
