@@ -1,10 +1,10 @@
 # Hi, I'm Yash
 
-**Data Scientist @ Project 990 | MSDS @ IUB | Python, SQL, ML, AWS**
+**Data Scientist @ Project 990 | MSDS @ IUB | Python, SQL, ML, AWS, NLP**
 
-I'm a Computer Engineering graduate and current Master's in Data Science student at Indiana University Bloomington. Passionate about solving real-world problems through data, I specialize in building end-to-end data solutions from scalable ETL pipelines and cloud infrastructure to production ML systems and interactive dashboards.
+I'm a Computer Engineering graduate and current Master's in Data Science student at Indiana University Bloomington, currently working as a Data Scientist at Project 990 and a Research Assistant at IU Indianapolis. Passionate about solving real-world problems through data, I specialize in building end-to-end data solutions from scalable ETL pipelines and cloud infrastructure to production ML systems, RAG pipelines, and LLM-based applications, along with interactive dashboards.
 
-With hands-on experience in Python, SQL, ML/NLP, cloud technologies (AWS, GCP), orchestration tools (Airflow, Docker), and CI/CD workflows (GitHub Actions), I enjoy transforming complex datasets into actionable insights and deploying data-driven solutions that create meaningful impact.
+With hands-on experience in Python, SQL, ML/NLP, LLMs and RAG, cloud technologies (AWS, GCP), orchestration tools (Airflow, Docker), and CI/CD workflows (GitHub Actions), I enjoy transforming complex datasets into actionable insights and deploying data-driven solutions that create meaningful impact.
 
 ---
 
