@@ -6,7 +6,9 @@ Most organizations collect far more data than they use. Closing that gap between
 
 I'm Yash Takte, a data professional with experience across data engineering, data science, analytics, and AI/ML. I recently completed my Master's in Data Science at Indiana University Bloomington, and I hold a Bachelor's in Computer Engineering from Amrutvahini College of Engineering, India.
 
-My work spans the full data lifecycle: building reliable ETL pipelines, designing cloud data models, developing machine learning models, building RAG and LLM-based applications, and creating reporting and dashboards that business teams actually use. I help organizations turn raw data into decisions through clear, reliable, and scalable data solutions. Core tools: Python, SQL, Spark, Snowflake, dbt, AWS, Airflow, Tableau, and Excel.
+My work spans the full data lifecycle: building reliable ETL pipelines, designing cloud data models, developing machine learning models, building RAG and LLM-based applications, and creating reporting and dashboards that business teams actually use. I help organizations turn raw data into decisions through clear, reliable, and scalable data solutions. 
+
+Core tools: Python, SQL, Spark, Snowflake, dbt, AWS, Airflow, Tableau, and Excel.
 
 I'm open to full-time roles in Data Engineering, Data Science, Data Analytics, and Analytics Engineering. Whether you're hiring or just want to talk data infrastructure, ML systems, or applied analytics, I'd be glad to connect.
 
