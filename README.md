@@ -8,7 +8,7 @@ I am Yash Takte, a data professional with experience across data engineering, da
  
 My work centers on the full data lifecycle: building reliable ETL pipelines, analyzing complex datasets, designing cloud data models, developing machine learning models, building LLM and RAG-powered AI applications, and creating dashboards that business teams actually use.
 
-Core tools: Python, SQL, Spark, Snowflake, dbt, AWS, Airflow, Docker, Tableau, and Excel.
+**Core tools:** Python, SQL, Spark, Snowflake, dbt, AWS, Airflow, Docker, Tableau, and Excel.
 
 I am open to full-time roles in Data Engineering, Data Science, Data Analytics, and Analytics Engineering. Whether you are hiring or simply want to talk data infrastructure, machine learning systems, or applied analytics, I would be glad to connect.
 
