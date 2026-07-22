@@ -1,6 +1,6 @@
 # Hi, I'm Yash
 
-**Data Engineer @ Project 990 | Python, SQL, Snowflake, AWS, ML, Tableau**
+**Data Engineer & Analyst | Python, SQL, Snowflake, AWS, Tableau | Building data, ML & analytics solutions end-to-end**
 
 Most organizations collect far more data than they use. Closing that gap between raw data and real decisions is the work I care about.
 
