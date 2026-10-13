@@ -2,15 +2,15 @@
 
 **Data Engineer & Analyst | Python, SQL, Snowflake, AWS, Tableau | Building data, ML & analytics solutions end-to-end**
 
-Most organizations collect far more data than they use. Closing that gap between raw data and real decisions is the work I care about.
- 
-I am Yash Takte, a data professional with experience across data engineering, data science, analytics, and AI/ML applications. I recently completed my Master's in Data Science at Indiana University Bloomington (GPA 3.87/4.0), and I hold a Bachelor's in Computer Engineering from Amrutvahini College of Engineering, India (GPA 9.31/10.0).
- 
-My work centers on the full data lifecycle: building reliable ETL pipelines, analyzing complex datasets, designing cloud data models, developing machine learning models, building LLM and RAG-powered AI applications, and creating dashboards that business teams actually use.
+Most organizations collect far more data than they use. Closing that gap between raw data and real decisions is the work I care about. 
+
+I am Yash Takte, a data professional with experience across data engineering, data science, analytics, and AI/ML applications. I recently completed my Masters in Data Science at Indiana University Bloomington (GPA 3.87/4.0), and I hold a Bachelors in Computer Engineering from Amrutvahini College of Engineering, India (GPA 9.31/10.0). 
+
+My work centers on the full data lifecycle: building production ETL pipelines and cloud data warehouses, analyzing complex datasets, developing machine learning models, building LLM and RAG-powered AI applications, and creating reporting and dashboards that business teams actually use. 
 
 **Core tools:** Python, SQL, Spark, Snowflake, dbt, AWS, Airflow, Docker, Tableau, and Excel.
 
-I am open to full-time roles in Data Engineering, Data Science, Data Analytics, and Analytics Engineering. Whether you are hiring or simply want to talk data infrastructure, machine learning systems, or applied analytics, I would be glad to connect.
+I am always interested in connecting around strong opportunities in Data Engineering, Data Science, Data Analytics, Analytics Engineering, and Data Reporting & Analysis, as well as conversations on data infrastructure, machine learning systems, and applied analytics.
 
 ---
 
